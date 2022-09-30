@@ -5,13 +5,12 @@
     Reorganize the following steps of the Software Development Lifecycle to be in their correct order.
 */
 
-// Implementation
-// Design
-// Maintain
-// Analysis of Requirements
-// Testing & Integration
 // Planning
-
+// Analysis of Requirements
+// Design
+// Implementation
+// Testing & Integration
+// Maintain
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -19,3 +18,13 @@
     The first one is done for you. 
 */
 const planning = "This is the first step, in which the end goal of the software is determined and defined. Developers typically will see what systems are already in place, and determine what features will need to be added." 
+
+const analysisOfRequirements = "Developers weigh out the different methods of how to reach the end goal and what will be required of them and others."
+
+const design = "Developers determine what steps are going to be taken, length of time, and what other systems will need to be used." 
+
+const implementation = "Code is written to create the systems necessary to meet the end goal."
+
+const testingAndIntegration = "Developers work out any bugs in the system and begin to test and use the code for it's desired purpose."
+
+const maintain = "Developers 'release' the code to be used for its intended purpose while continually fixing any bugs and taking feedback as it comes."
