@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+let gitDefinition = "Git is a program that allows a user to review code and publish code on the website GitHub using the terminal."
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +18,7 @@
 */
 
 //CODE HERE
+let gitHubDefinition = "GitHub is a website that allows one to save, view, and publish code publicly for others to view or use."
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,7 +27,7 @@
 */
 
 //CODE HERE
-
+let gitInitDefinition = "Git init starts the process of connecting a directory to a repository through the terminal."
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +35,7 @@
 */
 
 //CODE HERE
-
+let gitCloneDefinition = "I believe that git clone copies a repository but I do not know for sure to be completely honest!"
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +43,7 @@
 */
 
 //CODE HERE
-
+let gitStatusDefinition = "Git status allows us to see the code that we have pushed to github through a repository, and whether or not the most previous changes have been pushed."
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +54,8 @@
 */
 
 //CODE HERE
-
+let gitAddDefinition = "Git add updates the code that you are pushing if you have made changes."
+let gitAddCode = "git add ."
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,8 +66,8 @@
 */
 
 //CODE HERE
-
-
+let gitCommitDefinition = "git commit sends the updated files to github along with a message"
+let gitCommitCode = "git commit -m 'initial commit' "
 //////////////////PROBLEM 8////////////////////
 /*
     Create a variable called 'gitPushDefinition'.  
@@ -73,3 +75,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = "git push finalizes the changes and publishes them to the git hub repository"

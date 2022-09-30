@@ -46,3 +46,5 @@ for (i = 0; i < bigOrSmallArray.length; i++) {
   }
 }
 console.log(answers)
+
+//Not sure why the answers array is seperated on different lines but it read the bigOrSmallArray correctly.
